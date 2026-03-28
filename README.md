@@ -1,3 +1,3 @@
-# PersonDetection
+# Person Detection
 
-The repo was developed as part of the Mobile Robotics lab during the Winter Semester 2022/2023.
+This person-detection project was one of several developed as part of the Mobile Robotics group project during the Winter Semester 2022/2023.
